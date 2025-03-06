@@ -1,5 +1,5 @@
 - @boofinstall
 - MacOS/Linux
-- Interested in Hardware Hacking/Modding, Radio, 80's-00's Tech
+- Interested in Hardware Hacking/Modding, Radio, 80's-00's Tech, Photography
 - Bought a Flipper Zero as a reason to learn how to work with the kinds of technology that Flippers are capable of interacting with (Mainly Radio and NFC) and naturally, I ended up here.
 - No clue what I'm doing, but it's incredibly interesting to me, so maybe one day I'll have a clue.
